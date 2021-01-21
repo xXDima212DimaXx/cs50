@@ -1,1 +1,1 @@
-# cs50cleaver
+# cs50 course
